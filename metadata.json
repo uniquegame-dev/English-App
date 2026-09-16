@@ -1,0 +1,6 @@
+{
+  "name": "English App",
+  "description": "Clean, beginner-friendly English learning app for Indian users with English and Hinglish support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
